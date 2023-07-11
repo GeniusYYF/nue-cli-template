@@ -3,7 +3,7 @@
   "description": "nue-cli 还是 vue-cli?",
   "version": "1.0.0",
   "author": {
-    "name": "GeniusXYT",
+    "name": "GeniusYYF",
     "telephone": "17679217705",
     "email": "739416541@qq.com"
   },
@@ -16,15 +16,15 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://www.npmjs.com/package/nue-cli",
+  "homepage": "https://github.com/GeniusYYF",
   "keywords": [
     "nueServer"
   ],
   "license": "MIT",
   "files": [],
   "repository": {
-    "type": "npmjs",
-    "url": "https://www.npmjs.com/package/nue-cli?activeTab=code"
+    "type": "GitHub",
+    "url": "https://github.com/GeniusYYF/nue-cli.git"
   },
   "dependencies": {
     "module-alias": "^2.2.3",
