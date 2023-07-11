@@ -8,4 +8,3 @@ const api = require("./api"); // 自定义接口实现
 nueServer.createServer(api.apiDict, config) // 返回server
 
 console.log("apiDict:", api.apiDict);
-```"
