@@ -1,7 +1,7 @@
 {
-  "name": "nue-cli",
-  "description": "nue-cli 还是 vue-cli?",
-  "version": "1.0.0",
+  "name": "nue-cli-template",
+  "description": "nue-cli or vue-cli?",
+  "version": "0.0.1",
   "author": {
     "name": "GeniusYYF",
     "telephone": "17679217705",
@@ -24,7 +24,7 @@
   "files": [],
   "repository": {
     "type": "GitHub",
-    "url": "https://github.com/GeniusYYF/nue-cli.git"
+    "url": "https://github.com/GeniusYYF/nue-cli-template.git"
   },
   "dependencies": {
     "module-alias": "^2.2.3",
