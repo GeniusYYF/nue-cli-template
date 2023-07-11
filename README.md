@@ -1,4 +1,11 @@
 ```javascript
+// run
+npm run serve
+// build
+npm run pkg
+```
+```javascript
+// main.js
 require('module-alias/register'); // 定义目录
 
 const config = require("//node.config.js"); // 配置文件
@@ -8,3 +15,4 @@ const api = require("./api"); // 自定义接口实现
 nueServer.createServer(api.apiDict, config) // 返回server
 
 console.log("apiDict:", api.apiDict);
+```
