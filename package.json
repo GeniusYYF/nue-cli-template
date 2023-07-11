@@ -1,0 +1,39 @@
+{
+  "name": "nue-cli",
+  "description": "nue-cli 还是 vue-cli?前端还是后端?",
+  "version": "1.0.0",
+  "author": {
+    "name": "GeniusXYT",
+    "telephone": "17679217705",
+    "email": "739416541@qq.com"
+  },
+  "main": "./src/main.js",
+  "scripts": {
+    "serve": "node ./src/main.js",
+    "pkg": "pkg . --out-path=dist --targets=win",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://www.npmjs.com/package/nue-cli",
+  "keywords": [
+    "nueServer"
+  ],
+  "license": "MIT",
+  "files": [],
+  "repository": {
+    "type": "npmjs",
+    "url": "https://www.npmjs.com/package/nue-cli?activeTab=code"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.3",
+    "nue-server": "^1.0.3"
+  },
+  "devDependencies": {},
+  "_moduleAliases": {
+    "/": "./",
+    "@": "./src",
+    "#": "./public"
+  }
+}
